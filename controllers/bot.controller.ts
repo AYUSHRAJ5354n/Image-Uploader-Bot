@@ -37,8 +37,8 @@ export const BotController = {
                 url: `https://t.me/${CLEAN_USERNAME}`
               }],
               [{ 
-                text: "Source Code ↗️", 
-                url: `https://github.com/Private-Bots-Official/Image-Uploader-Bot`
+                text: "OffiCial Backup ↗️", 
+                url: `https://t.me/Ayu_bots`
               }],
             ]
           }
