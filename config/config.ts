@@ -2,9 +2,9 @@ export const BOT_TOKEN = Deno.env.get("BOT_TOKEN");
 console.log(BOT_TOKEN);
 export const IMGBB_UPLOAD_URL = "https://api-integretion-unblocked.vercel.app/imgbb";
 export const SUBSCRIPTION_CHECK_BOT_TOKEN = BOT_TOKEN;
-export const CHANNEL_USERNAME = Deno.env.get("CHANNEL_USERNAME"); // example -> @Private_Bots
-export const DEVELOPER_ID = 7855536617;
-export const WELCOME_IMAGE_URL = "https://i.imghippo.com/files/GdN9496KmY.jpg";
+export const CHANNEL_USERNAME = Deno.env.get("@AYU_BOTS"); // example -> @Private_Bots
+export const DEVELOPER_ID = 1685470205;
+export const WELCOME_IMAGE_URL = "https://i.ibb.co/WWV20HxN/x.jpg";
 
 // Validate required variables
 const requiredVars = ["BOT_TOKEN", "CHANNEL_USERNAME"];
